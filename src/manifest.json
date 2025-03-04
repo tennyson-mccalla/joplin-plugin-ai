@@ -1,0 +1,19 @@
+{
+	"manifest_version": 1,
+	"id": "com.joplinapp.ai-assistant",
+	"app_min_version": "3.2",
+	"version": "1.0.0",
+	"name": "AI Assistant",
+	"description": "AI-powered assistant for Joplin that can summarize notes and suggest tags",
+	"author": "Tennyson",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": ["ai", "openai", "summary", "tags", "assistant"],
+	"categories": ["productivity"],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"dependencies": {
+		"openai": "^4.0.0"
+	}
+}

@@ -1,0 +1,16 @@
+dist/
+node_modules/
+publish/
+
+# Environment and config files that might contain secrets
+.env
+.env.*
+*.env
+config.json
+config.*.json
+secrets.json
+.vscode/settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
